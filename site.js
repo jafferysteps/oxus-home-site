@@ -73,7 +73,7 @@
             success.className = 'form-success';
             success.innerHTML =
               '<h3>Received — thank you.</h3>' +
-              '<p>A real person will reply within one business day. If it’s urgent, call us on <strong>+44 7448 937383</strong>.</p>';
+              '<p>A real person will reply within one business day.</p>';
             form.parentNode.replaceChild(success, form);
             success.scrollIntoView({ behavior: 'smooth', block: 'center' });
           } else {
@@ -89,7 +89,7 @@
             errorNote.style.cssText = 'grid-column:1/-1;color:#B3261E;font-size:14px;';
             form.appendChild(errorNote);
           }
-          errorNote.textContent = 'Something went wrong sending this — please call us on +44 7448 937383 or email hello@oxushome.com instead.';
+          errorNote.textContent = 'Something went wrong sending this — please email hello@oxushome.com instead, or try again in a moment.';
         });
     });
   }
