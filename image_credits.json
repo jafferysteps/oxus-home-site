@@ -1,0 +1,38 @@
+{
+  "index-hotel-room": {
+    "file": "images/index-hotel-room.jpg",
+    "title": "interiors",
+    "creator": "tommerton2010",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/58842866@N08/5388662544"
+  },
+  "index-swatches": {
+    "file": "images/index-swatches.jpg",
+    "title": "Aug:23",
+    "creator": "lovelihood",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://www.flickr.com/photos/44258887@N04/6075662186"
+  },
+  "towel-stack": {
+    "file": "images/towel-stack.jpg",
+    "title": "Towels at my Other Gym",
+    "creator": "Colin Davis Studio",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/87506973@N00/3693852923"
+  },
+  "fabric-detail": {
+    "file": "images/fabric-detail.jpg",
+    "title": "rustic paper background (natural fabric texture)",
+    "creator": "Creativity103",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://www.flickr.com/photos/36894712@N04/14519062757"
+  }
+}
