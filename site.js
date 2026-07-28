@@ -89,7 +89,7 @@
             errorNote.style.cssText = 'grid-column:1/-1;color:#B3261E;font-size:14px;';
             form.appendChild(errorNote);
           }
-          errorNote.textContent = 'Something went wrong sending this — please email hello@oxushome.com instead, or try again in a moment.';
+          errorNote.textContent = 'Something went wrong sending this — please email hello@oxushome.co.uk instead, or try again in a moment.';
         });
     });
   }

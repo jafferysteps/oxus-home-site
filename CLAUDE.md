@@ -26,7 +26,7 @@ index, hotels, care-homes, trade, what-we-make, custom, quality, about, resource
 4. Replace `.ph` placeholder blocks with real photography — each placeholder's caption is the shot brief (real factory/process imagery, natural light; no stock, no DTC lifestyle shots).
 5. Team cards in about.html have `[Founder name]` placeholders.
 6. Testimonial on index.html is a labelled placeholder — replace with a real consented quote; never invent quotes or client logos.
-7. Confirm hello@oxushome.com is live.
+7. Confirm hello@oxushome.co.uk is live.
 
 ## Reference
 Full copy deck: `Oxus_Home_Website_Copy_Deck.docx` (sibling of this folder). Brand identity source: Oxus_Home_Brand_Identity.pdf / _Brief.docx (owner has them).
