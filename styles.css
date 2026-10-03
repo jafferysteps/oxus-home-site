@@ -234,3 +234,8 @@ input,textarea,select{border-radius:var(--radius-sm);}
 .mobile-menu{border-radius:0 0 var(--radius) var(--radius);}
 table{border-radius:var(--radius-sm);}
 @media(max-width:900px){.hero-photo{border-radius:var(--radius);margin:36px 22px 0;width:auto;}}
+
+/* Homepage "Why Oxus Home" box: curved, edges aligned with the .wrap content width (same as the cards above/below) */
+section.band-rounded{padding:28px 0;}
+.band-box{background:var(--panel);border:1px solid var(--stone);border-radius:28px;padding:56px 48px;}
+@media(max-width:900px){.band-box{border-radius:20px;padding:40px 22px;}}
