@@ -81,6 +81,15 @@ nav.menu a.active{color:var(--teal);border-bottom:2px solid var(--teal);}
 .ph.has-photo::before{display:none;}
 .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;}
 .ph span{display:none;}
+/* Pending-image slot: used until final product photography arrives.
+   IMAGE STYLE GUIDE (for the final set):
+   - Crisp white / bone / neutral palette
+   - Cool-to-neutral natural daylight — no warm amber or heavy artificial lighting
+   - Product as hero — no factory, loom, production-floor or manufacturing imagery, ever
+   - No consumer lifestyle framing — B2B hospitality editorial */
+.ph.pending,.dark .ph.pending{background:var(--bone);border:1px solid var(--stone);display:flex;align-items:center;justify-content:center;text-align:center;padding:24px;}
+.ph.pending::before{display:none;}
+.ph.pending span,.dark .ph.pending span{display:block;font-size:13px;letter-spacing:.04em;color:var(--stone-dark);font-style:normal;}
 
 /* ---------- cards ---------- */
 .cards3{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;}
